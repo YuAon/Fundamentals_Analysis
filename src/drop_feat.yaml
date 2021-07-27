@@ -1,0 +1,34 @@
+- volatility_bbhi
+- volatility_bbli
+- volatility_kcli
+- volatility_bbm
+- volatility_bbh
+- volatility_bbl
+- volatility_kcc
+- volatility_kch
+- volatility_kcl
+- volatility_dcl
+- volatility_dch
+- volatility_dcm
+- trend_psar_up_indicator
+- trend_psar_down_indicator
+- trend_macd
+- trend_ema_slow
+- trend_ema_fast
+- trend_sma_slow
+- trend_sma_fast
+- trend_ichimoku_conv
+- trend_ichimoku_base
+- trend_ichimoku_a
+- trend_ichimoku_b
+- trend_visual_ichimoku_a
+- trend_visual_ichimoku_b
+- trend_kst
+- momentum_stoch
+- momentum_kama
+- momentum_stoch_rsi_k
+- momentum_wr
+- EndOfDayQuote ExchangeOfficialClose
+- Result_Dividend AnnualDividendPerShare
+- Result_FinancialStatement OrdinaryIncome
+- Result_FinancialStatement OrdinaryIncome rate

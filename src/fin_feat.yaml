@@ -1,0 +1,16 @@
+- Result_FinancialStatement ReportType
+- Result_FinancialStatement NetSales
+- Result_FinancialStatement OperatingIncome
+- Result_FinancialStatement OrdinaryIncome
+- Result_FinancialStatement NetIncome
+- Result_FinancialStatement TotalAssets
+- Result_FinancialStatement NetAssets
+- Forecast_FinancialStatement NetSales
+- Forecast_FinancialStatement OperatingIncome
+- Forecast_FinancialStatement OrdinaryIncome
+- Forecast_FinancialStatement NetIncome
+- Result_Dividend QuarterlyDividendPerShare
+- Result_Dividend AnnualDividendPerShare
+- Forecast_Dividend QuarterlyDividendPerShare
+- Forecast_Dividend AnnualDividendPerShare
+

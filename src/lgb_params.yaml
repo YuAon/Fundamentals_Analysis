@@ -1,0 +1,6 @@
+task: 'train'
+boosting_type: 'gbdt'
+objective: 'huber'
+metric: 'custom'
+learning_rate: 0.05
+early_stopping_round: 50
